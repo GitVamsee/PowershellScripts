@@ -1,0 +1,8 @@
+CO2PQCAPJOB01.partners.extranet.microsoft.com
+CO2PQCAPJOB02.partners.extranet.microsoft.com
+CY1PQCAPJOB01.partners.extranet.microsoft.com
+CY1PQCAPJOB02.partners.extranet.microsoft.com
+CO2PQCAPSMTCS01.partners.extranet.microsoft.com
+CO2PQCAPSMTCS02.partners.extranet.microsoft.com
+CY1PQCAPSMTCS01.partners.extranet.microsoft.com
+TK5PQCAPSMTCS01.partners.extranet.microsoft.com

@@ -1,0 +1,12 @@
+CO1MSSCAPLSUG06.partners.extranet.microsoft.com
+CO1MSSCAPLSUG01.partners.extranet.microsoft.com
+CO1MSSCAPLSUG05.partners.extranet.microsoft.com
+CO1MSSCAPLSUG04.partners.extranet.microsoft.com
+CO1MSSCAPLSUG02.partners.extranet.microsoft.com
+CO1MSSCAPLSUG03.partners.extranet.microsoft.com
+CY1MSCAPWBFSA03.partners.extranet.microsoft.com
+CY1MSCAPWBFSA06.partners.extranet.microsoft.com
+CY1PQCAPWBFSA02.partners.extranet.microsoft.com
+CY1MSCAPWBFSA04.partners.extranet.microsoft.com
+CY1MSCAPWBFSA05.partners.extranet.microsoft.com
+CY1PQCAPWBFSA01.partners.extranet.microsoft.com

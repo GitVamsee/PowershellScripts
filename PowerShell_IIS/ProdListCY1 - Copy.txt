@@ -1,0 +1,16 @@
+CY1PQCAPWBFSA01.partners.extranet.microsoft.com
+CY1PQCAPWBFSA02.partners.extranet.microsoft.com
+CY1MSCAPWBFSA03.partners.extranet.microsoft.com
+CY1MSCAPWBFSA04.partners.extranet.microsoft.com
+CY1MSCAPWBFSA05.partners.extranet.microsoft.com
+CY1MSCAPWBFSA06.partners.extranet.microsoft.com
+CY1PQCAPWBCOM01.partners.extranet.microsoft.com
+CY1PQCAPWBCOM02.partners.extranet.microsoft.com
+CY1MSCAPWBCOM03.partners.extranet.microsoft.com
+CY1MSCAPWBCOM04.partners.extranet.microsoft.com
+CY1PQCAPWBCOM05.partners.extranet.microsoft.com
+CY1PQCAPWBCOM06.partners.extranet.microsoft.com
+cy1pqcapwbefm01.partners.extranet.microsoft.com
+cy1mscapwbefm02.partners.extranet.microsoft.com
+CY1PQCAPWBADM01.partners.extranet.microsoft.com
+CY1PQCAPWBADM02.partners.extranet.microsoft.com

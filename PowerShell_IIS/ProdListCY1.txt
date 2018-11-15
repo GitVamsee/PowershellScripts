@@ -1,0 +1,2 @@
+servername.partners.extranet.microsoft.com
+servername.partners.extranet.microsoft.com
